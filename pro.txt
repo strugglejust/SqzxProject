@@ -3,4 +3,9 @@ hello world!
 
 this time I come to BeiJing.
 
+<<<<<<< HEAD
 creat first branch
+=======
+creat first branch
+second branch of wyh
+>>>>>>> srcondBranch222
